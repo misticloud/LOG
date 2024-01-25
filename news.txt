@@ -1,4 +1,6 @@
 Welcome to the LOG. Hope you are enjoying your LOG experience so far. The features below has been implemented in this update:
+
 -NEWS(via internet)
 -TEXT SCROLLING
+
 We, RAYMOND SOFTWARE INC., are happy to see our cooperators make use of LOG. More updates will be announced soon.
